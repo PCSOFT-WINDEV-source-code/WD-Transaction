@@ -1,0 +1,151 @@
+#To edit and compare internal_properties, use WINDEV integrated tools.
+#Internal properties refer to the properties of controls in windows, reports, etc.
+info :
+ name : WD Transaction
+ major_version : 28
+ minor_version : 0
+ type : 4097
+ description : WD Transaction
+ subtype : 0
+project :
+ identifier : 0x0
+ internal_properties : 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
+ configurations :
+  -
+    name : WD Transaction
+    internal_properties : CAAAAAgAAAAZKkMuoLWcyTXn4HYRgmOtVBtmkxE/aRbRvF2zfi77KbtdTn67hi2spNJGDJ/GH1WL/2bnceHOKDeZoq8Iy/20iVCyo6X+nYjgwaHI8YIq/2YLValjK+g9MqP9Edo9of6Dx8aA8vkfvh0rZjDcHYR/lMrI2wE8sPYulODXqjNWN1EeEQJn3lAtseJOnXFKkELtQjMR2gNq007gAW9bXzFUC0gVfLZHQ/prd2aNVRqG3+/Pr3r96hP4cKtCcTNeBA31GsQcfwysxii1AVCHWwV51tiMKs06E18+HmgDA29Nx01NdNM/KlW++tlQvRfQCWzQAWOPkLDCwdmEz1oVL6U56y9v5ee3AmbFjlMYXlEcydf4v5WpNfeyjF9H3SQ1QU2Hl6nOIZOzCCdABEkjldi5cEbRWyV+Xg0d0Wez1abTAJTvUwMjLrEODAiQqV6UIXJvHn4IAoCcLcEZFOHebHEqm74O+zm3WxvEinPAFkj59RGHUrasHHAtaaDR3HLQKeEAfFGNBTIMiLJKWdFX7hRXpQpss3I6O4OYvXmleSLTZixSKf2u4NMq8gnhcwCcGmzpzKUtlId1F5/kI15O0VhUHnfeAg4aaFyNTlolRJS4fvh783u5s1V4RqSLGOkr1cM+07jsKzYp31DEKQHfYr/jfvmiiy2kdwpmSFyCvMs3TO4pY5H3cXNdR/4yMBopgIBzP3vzTp1KhetpxPeuW1r39fOVUee82DVKPz6Iv5M11LoV+f/rC3E6G8v8Q4Zoc2Visu7JGSF46H5ErDsBfFt26ucq5U8jpYHDvJ4E7IEOlCLqlTCnrRho7f7yk0zoTE6ddFoqLcVfKCgYpyr8eiZZ1P5VfY3hNy+ca/c80TF7dPj1cHne1q+7JURIXoJvMt7Emke6Og+yEPauNvSjVf37JwO7UGhpBkTfuZCYe1PLnTXga2ZYgnW9HwmKEvvU9fr8wNyVqqk2YwAPv/BrBxF7Wu5jc4RvW+Xne6/RBxepMtKy1TEruqW1a1TmUJJ8OV+2TWDyeOZrTnsjocKzuwT8gTrIvjILpbL/JqLHf+y58mwA9VBiY7e0sXlOAlUd4AhNsqp9aJiMVux/LGjVqmotar9ToJzhUo0aBT2zb2FZqFk9aKLCTn126EAiOmhy3S97ZUAorseiA7Z3F+jj/NVket17p8QfY4BtrwN3BFJjXOjwvTjd1tzed9Gsrn/lg3ca9/WOTjEyjYbUax/2xDYehFX9CxcckyZaxWZ4p7HJTlijx9k8LLOzbRI99m6FAAbcGkkkZhJfGPm65Nh4sR/PHo2sobqgtynNHgISwn2qsTzrVuoRI/kQrslP7S4GHfe9Iy7+oOHJevswETJk+67SJvk+y/J+hdelPdY/8EnwysUjHhk72dINHQ/Y80ipTye9SgRtV7dE9zbwjFvBD7eeWt48fm4UMx42a8sONgrI/3peiXaygO8pbR4N/9kqlZ3ri/l8e8ocOIYe2ocgvkD9n+wO1q8pIAcagKTQ19b/XSvWaFobFrAOQ3YXMLJH3121YJOKJop0iMibk48S+Hw8mqbNRsUKaGdJrqJ97w8E9XSmZDcHjxQbwCr1g4bc3Df5lw0SHiebmtn3HdAYwW+4DsSrnDiIX+7FrLy9mqgVqMy8gRoXwXTVx53IzXFpiPpAe3VLNCudKo12B6VaLbBAaZHDXHjCaYGm2vyXr5zjBwvm2Ow1GuBLvNwh5yqMZNs63xzqrFHomDgpNm+8C2FJ22+zQfducNWa4E5fX5O+8RUJunM+dbLpcHK1Vfz3bbCziy3MZeSfQZ0aU2sjd4ioOtnf5ADl4njZBvOZN1SDqm1vXRECilwlGEnjAfMiz/b7iVOpCLQjgY5Sort+Bbj8iF7jV0WUtzE3qPcQ1n+zeUVrr1UH0+qeQR3Xj4zusviPk2eAiMzmklOuSHxSaUnV1Tq1bbylaaL3tewZ53u74XjJ3+03H6mybo2g0xS15jLxrJoM4+fw9iEzbWm45ySNLSq8S1YiK61YIfW2VPwK6jLRhnX/BkvKESv5T8/c+P9PRLKdcnwcboCj/maY6Lnv9oEVEjgTSIfG1bdZ1NqINr4nEKyQVZnM1hXv+lPxARZMTHWsgCuATKWw93n7b/lxjNStxh2655+OmERWtNYZQCBToEpsphYMKExRmesyU3HhKrOFgPU/sXW20+uLqHYm01Dw9hETxGRHckcP+iqZwP49yqd6LDi4HkDs0jmZZadv530xTgDXowhL01q4CG2rIEdvWnKYOeOlos7MNC3R4uQjAUE5cB+/9LOTp/M3uBaGA117fNEp//n/vVTpuQTfrSZcSnhDqqRqDvBhERAYGdx+rhBcbOOz7+su2pGhbRAdiyLqB9yePIPnup9mCx/ZRmEsxELCNUG+HvAOImIH3KRG1K2m9t0gzifRR8jMQmGDpI+qBl2I8cG7nUIvl7xIA+Py6f4IuNpMctDhziPbkLFbvZupD2ixCkAwHUxqlU6313VdNlZmV5sRXbQo2RW+eFoAPJTPZArGGyuEpaOwPqy55G/vU16BS/tjdDXHUvrhf4S/oyLMkIzvu3wogJn5at8J68HdwTietva1KO7iqxVjrpbsx0AWMOtb0ufEI+HGRnn1tOvYf8Qz4aHubyoSQT7mLaVWxohYtfjI4YRVd6Yaj7AveJv8+1HtJWOITVeC0btOBwz3//3LNZOYyH8nqAT/n2YJWa2b7d/p9vlJw/+2zYlfQr0fZw7pKUDRIBA/Pn9KtPdDqRLv3QonntUf4oTq0A94zoAfd8kgE2/FmF6lcJPDPM+cXENXc/SXWVr3denu+BKQcDwFbQk+X2CEJqnOHNO6jbZQfyuud5Y+wHdgGq3tfIHdY9ofoZwmlsUCIT+vfxF0WOHWV1XE17LaQE9UppnCa+Qtnd9a74rf5VZJw90TxBSIlJKAp0xUt6v4nGUpwAhniwUffLSx2WHbDa/6Nwq9vpYUkVxMTE1CqAuC9fxMBGyyXAlzURq3E8PaN49LaAG+gNzY/J0mEf2BVUKFqkyVHLHdMA8SMoO1ooEXII4S3RS6cioo7s5t8+GV6tkt7I69wUG0nqQXwmBn/keB3besXjZieWcZVhyZ/1rXzmFPbMCmlEBOci1wbvYymUXAiNZVQVV9xw6AfT1ABeP1CaAxAF7NBAsNJneK6roe2YMczRxFu/VxH8/Ejlz0W/O1NUWfg3wNOQVrzmwhtEsg1o8vojpCgQrKsyL6KnIGqcj0Sa3CcD1Bv7BbV1+BoOlZcboYcp19r8wAb4HvrI02lJRpnPbXrhNwnfed/7D015JbzlL+Qj1btaVwXtCquaNKergG0MXLFXYl6I9CAR1ytAnIA5+haGFlXnYm5gu4M0obHpMmgHiqpq0Sqi8KCWNmJm/TN6roYqfKHbjiUTZ/O/rw3TTEGxCC5+lwfFNP8hIC2Yl+0jvG4lFLCQ0JoGhTMe3AagLafvrQGzGcFSj/J4TtJL3+DV+N6to5s3ha9eVJmizWFEyvDIt8em7/fo0Tg8hg0lyTCWskzSC6fdjhic+ae5zuPbdP9LMX7Y0XmjKmj4QSUKloEHtqoqe/zvNdy+SEJuOPU+Ig/Rfn7BzepASLAFflrKbczfJ43IpVkJhH/go9HWzHsSAj2d4BAH5P7zlXcx/uwvxgB4JEcwNnLyu/kOv49+T2D+bEaCGp3AzLsn4rlxDvKTS8LKxgj3h0CqH09hKTzdfgi+dRtsvJNfOBVPA5CIHP9HarCVtDnlt79M07tdThR8v43k3/dhD6klz5pWO2ck7zZkr1dFOTi6UZdpggV96jMKebcSXvaso3EJsBOVatC4sGcnec+yfj+SUYYkRXcmmTYv53zCMKUAYvNEzK0dyWW3SZez5uIP9+FSbWbKHxF95djw+Il6+NGl0lIVD0vHeKCRV3OpDA4gM4Z3j+jI/vFMSHgdKxxHoMT5CcsniuWt709u8banydS4zWwChNlxtGo4hmnwREAqDLzO8GPTBzaHaZYzkvgsbdxlNbo/Cpc1jkfGWenTAE5Kga3Inc0BuoQbaLsNTR+MvdYPsikRjp9t5hMzhq6Vg6MZM1gw8yjnjpjxCCOQ4d3ZBOQLL+QnlA6xVW/VEQund9qAm2Ja8uR2jYVJZwW3aZ2mhG+j8PYRW4pt0DKZFr64u3u09ZXSupcIFDGDRXtxmKGSS+VV5wIKgHBSkjVpNfYiiULHjnrue3bXKkTl6EXt8ZXqX0yP+xFnpj57rG4OeSfyFT9u26oh5ElS9+yYDjTsvf5YHcfHK4ohyJALhsetLtuRlMcpAmE7rkswUgT5rGf1ZG5YbDu+Ki8iIAr0vl3LnFf95XtqugjhbyFZa0QGbKUYwYB/p4WbizcVdRlUhB6vgopyi18ZBruWEN8BXw5TESwbINAIQMLdffxsZAADKRIcD4/CpCSlYMJ07NWt+WnTFVz/HwzXptCxQkQ+c+JX6U2DaKbvGVH9uw54IG+W43a8QQzYRkOWW5hFY1ceiYQxdMa2RJbnoJG9QmXF7ozSxjT3/JZ2UtNLtXxahnD3qf3Fd++FeMX9XMiWTzE7dNKruk+/SweXNgeXhwFkLKWEMLq1FdU0W4mh0M07qkzGzsZhCc8GCLqd3M/ZBNliEqjaG07uhbQBChiFo08nqbtl/MCp9ivr31umFH5uZIU5nSrN6n24fUi86XjuKmKLLYyBJ4apU9tt3I9HFZ9AOzYOJUOmk+MpT8GUGzFhOJUgZUOyS+kLLCN6/mRhD4pp6Y6TueHTZpVjGgeGEdZDwwUszevms+0hzIL2QH0TV+yNYUPg1ErNMDS5bJWWzgy96QU2VwkwTEzZSvzdSsEmDNGPOQck4l6B6PstTjTSkZG2WmhdTd4oCBgYrTrfyvIG8D4+/LIkSRFdxyOqeeEXPQzPVy/uSmGpAKnMdxQFVr+cbpqDwvQ/uIDR44z5yvo9S3RhTQCrW5yrm9PDQSaYhkHUlqmCkIfeIKuyei4YWRpI0Whfmt0odCzpEP1tOUW8DQHOXjbR6I4Zhy93CPVeN5CUuL0LVqi/Ww0/BT1SVhYj+fbEoEoUW2WmFexWQbFpjngE+k7hWqgvs4TDzSkaVBbg0agPo4bCFF1f6qCajcqmkvk0aZhm0vU+2Wmywi5VyfzBiUI5WqU6PGbo0mkY3TKLektcvH3k2TyfJJk+3BWdgvlViMNvo98BMiekxgQP+3fL64KUN/WpXj/86RVLLo9I+9um1oloj7Nc9sjYhIOD96UbA7GJGKLQ==
+    configuration_id : 17941721061002012579
+    type : 1
+    generation_name : WD Transaction.exe
+    version :
+     major_version : 22
+     minor_version : 37
+     internal_generation_version : 1
+     autoincrement_version : false
+    icon_filename : .\database.ico
+    language : 2
+    telemetry :
+     status : disabled
+ elements :
+  identifier : 0x4af448530011703b
+  elements :
+   -
+     name : Global procedures of WD Transaction
+     identifier : 0x413c930b00008adf
+     internal_properties : CAAAAAgAAAC3k5+DIB0VFiG8WoU+Db0texS25mGmXybYNypCk6l1o0HfWG+SbtYTfrginmaaZlqiog==
+     physical_name : .\Global procedures of WD Transaction.wdg
+     type : 7
+   -
+     name : BasketWin
+     identifier : 0x413c930b00028adf
+     internal_properties : CAAAAAgAAAB3019DYN1VVmH8mkV+nkEhO67KokOIZCWijvR/poaMXJBMF7BSrhbTPvji3qZaJppi4g==
+     physical_name : .\BasketWin.wdw
+     type : 2
+   -
+     name : Win_EndTrans
+     identifier : 0x413c930b00038adf
+     internal_properties : CAAAAAgAAACno4+TEE3lhlEsyhWu79Gpo8B+5uVpbMe9aUPrWdPDDSfZpiHi3kaD7iiSbjaqVkqysg==
+     physical_name : .\Win_EndTrans.wdw
+     type : 2
+   -
+     name : Win_Failure
+     identifier : 0x413c930b00048adf
+     internal_properties : CAAAAAgAAABRrYmdKlffkF8m2Ae4yudTteSstKEN1ubx5oj2Iipg4GDgvwgI8FSR+CKcZCykXEy0vA==
+     physical_name : .\Win_Failure.wdw
+     type : 2
+   -
+     name : TEST_BasketWin
+     identifier : 0x4a0bc7310000561b
+     internal_properties : CAAAAAgAAAAOFGa6iTZ+sb5F89LryXgAJmd9pZonFf6iZtfwuWEz3RcvLinVI4G810G7BY1DP7EbGw==
+     physical_name : .\TEST_BasketWin.wxt
+     type : 17
+  other_elements :
+   -
+     physical_name : .\description.gif
+  analysis : .\WD Transaction.ana\WD Transaction.wda
+  net_assemblies : []
+  uwp_api : []
+  external_components : []
+  internal_components : []
+ report_and_queries_enabled : false
+ common_generation_directory : true
+ languages :
+  - en-GB
+ wd_style_sheet : ".\\WD Transaction.sty\r\n.\\WD5TRANS.gab"
+ code_elements :
+  internal_properties : CAAAAAgAAABXeJfca2eW5uzvgdUdQ2Lu8JCZV2ixtvLquqOKpoMQ2z2lLWAD4o+oq1tynDDA8vIfSSyPsJ2Jpb6ACiZU6CKQTspXbuYZzFU/
+  type_code : 0
+  p_codes :
+   -
+     internal_properties : CAAAAAgAAADvyf41uSOdEiuwex5ACwhJx1H0AIhxs59bVldMpKH3n2WQRlQjrOFxXA//QFxqLQ7bLvKs4Dh0tvQrmi8mOshiGzNWhSNOwrIavFSu3KySGGnr2v1ghcAxps7XLjXTYVJD98FTMNRSrqAy04g=
+     code : |1-
+      gsExeDir is string // Directory of data
+      gsTransactionLog  is string // Transaction file
+      gnInstanceNum is int // Number of the application instance
+      
+      // Number of the program instance
+      gnInstanceNum = CommandLine("SETUPNUM")
+      
+      LOCAL
+      // Language to use
+      nNation is int	
+      nNation = CommandLine("LANGUAGE")
+      IF nNation>0 THEN
+      	Nation(nNation)
+      END
+      
+      IF InTestMode() THEN 
+      	// In test mode, return the runtime directory
+      	gsExeDir = CompleteDir(fCurrentDir())
+      ELSE
+      	// In exe mode, return the directory of the executable
+      	gsExeDir =  CompleteDir(ExeInfo(exeDirectory))
+      END
+      
+      // transaction file
+      gsTransactionLog = gsExeDir+"Transaction.trs"
+      
+      // Automatic resume if the transaction was abnormally interrupted
+      // when previously used (Transaction log on disk)
+      IF HTransactionInterrupted(gsTransactionLog) THEN
+      	IF YesNo("A transaction was interrupted (the transaction was neither validated nor canceled)."+CR+"This may be caused by a power outage of by a sudden stop of the task."+CR+"The last operation was ignored."+CR+"Click Yes to automatically cancel the interrupted transaction."+CR+"Click No to cancel the transaction interrupted with WDTRANS. Start WDTRANS supplied with WINDEV.") THEN
+      		HTransactionCancel(gsTransactionLog)	
+      	ELSE
+      		EndProgram()
+      	END
+      END
+      
+      // HF
+      HCreationIfNotFound("*","",hDelayedOpening)
+      
+      HMode("*",hModeMulti)
+      HSubstDir("?",gsExeDir)
+     type : 196608
+   -
+     type : 196621
+   -
+     type : 196627
+     enabled : false
+  orphans :
+   -
+     name : WD Transaction
+     identifier : 0x4af4485300177089
+     code_elements :
+      type_code : 159
+      p_codes : []
+ code_parameters :
+  internal_properties : CAAAAAgAAACVGQgYbalU7DKC3oH4ItDrjtcTHXXV/EuH8q0IbhyQlw==
+rad :
+ internal_properties : CAAAAAgAAABhIL0UXeZmxDJxY3Xy0Q==
+project_explorer :
+ explorer_type : project
+ children :
+  -
+    name : OverviewWin_Ex
+    explorer_type : custom_folder
+resources :
+ string_res :
+  identifier : 0x0
+  internal_properties : CAAAAAgAAACm76HWfKGWp33VjXInA4cRlqArlgTTA862QGt72W2ld5Y=
+custom_note :
+ internal_properties : CAAAAAgAAAAd98VSJfHHqE3P0QHwrwdhn7ig8dWBR6valpUTgnAMTVXiDg==
